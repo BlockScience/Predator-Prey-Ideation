@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Legacy Code Review/PSUBs.md",
+                "file": "MSML Scaffold/State Variables/Agent State-Age.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PSUBs"
+              "title": "Agent State-Age"
             }
           }
         ]
@@ -93,17 +93,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Legacy Code Review/PSUBs.md",
+                "file": "MSML Scaffold/State Variables/Agent State-Age.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for PSUBs"
+              "title": "Backlinks for Agent State-Age"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Legacy Code Review/PSUBs.md",
+                "file": "MSML Scaffold/State Variables/Agent State-Age.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from PSUBs"
+              "title": "Outgoing links from Agent State-Age"
             }
           },
           {
@@ -139,18 +139,18 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Legacy Code Review/PSUBs.md"
+                "file": "MSML Scaffold/State Variables/Agent State-Age.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of PSUBs"
+              "title": "Outline of Agent State-Age"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,13 +162,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4f392ee2a887f287",
+  "active": "ca81e1e942a6a46d",
   "lastOpenFiles": [
-    "MSML Scaffold/Mechanisms/Update Agent Locations Mechanism.md",
-    "MSML Scaffold/Wiring/Food Growth Wiring.md",
-    "MSML Scaffold/Mechanisms/Create Agents Mechanism.md",
-    "MSML Scaffold/Wiring/Agent Movement Wiring.md",
+    "Legacy Code Review/Legacy Notebook.md",
+    "MSML Scaffold/State Variables/Agent State-Age.md",
     "Legacy Code Review/PSUBs.md",
+    "MSML Scaffold/State Variables/Agent State-Agent Type.md",
+    "MSML Scaffold/State Variables/Global State-Sites.md",
+    "MSML Scaffold/Stateful Metrics/Predator Stateful Metric.md",
+    "MSML Scaffold/Stateful Metrics/Prey Stateful Metric.md",
+    "MSML Scaffold/Stateful Metrics",
+    "MSML Scaffold/States/Agent State.md",
+    "MSML Scaffold/Entities/Agent.md",
+    "MSML Scaffold/Entities",
+    "MSML Scaffold/Types/Agent Type.md",
+    "MSML Scaffold/Wiring/Increase Agent Age Wiring.md",
+    "MSML Scaffold/Types",
+    "MSML Scaffold/Mechanisms/Create Agents Mechanism.md",
+    "MSML Scaffold/States/Global State.md",
+    "MSML Scaffold/State Variables",
+    "MSML Scaffold/States",
+    "MSML Scaffold/Wiring/Food Growth Wiring.md",
+    "MSML Scaffold/Mechanisms/Update Agent Locations Mechanism.md",
+    "MSML Scaffold/Wiring/Agent Movement Wiring.md",
     "MSML Scaffold/Mechanisms",
     "MSML Scaffold/Wiring",
     "MSML Scaffold/Wiring/Natural Death Wiring.md",
@@ -177,8 +193,6 @@
     "MSML Scaffold/Wiring/Prey Feeding Wiring.md",
     "MSML Scaffold/Wiring/Agent Reproduction Wiring.md",
     "MSML Scaffold/Mechanisms/Update Agents Mechanism.md",
-    "MSML Scaffold/Wiring/Increase Agent Age Wiring.md",
-    "MSML Scaffold/Mechanisms/Update Food Mechanism.md",
-    "Legacy Code Review/Legacy Notebook.md"
+    "MSML Scaffold/Mechanisms/Update Food Mechanism.md"
   ]
 }
