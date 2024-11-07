@@ -3,12 +3,12 @@ Original link: https://github.com/cadCAD-org/demos/blob/master/demos/Agent_Based
 
 There are a lot of possible ABMs for any given phenomenon. cadCAD allows you to add, modify and remove simulation blocks and steps at will.
 
-For this demo, we'll adopt a model based on a grid world, on which preys and predators take the following actions at each [[Agent State-Age|timestep of their lives]]:
+For this demo, we'll adopt a model based on a [[Global State-Sites|grid world]], on which [[Prey Stateful Metric|prey]] and [[Predator Stateful Metric|predators]] take the following actions at each [[Agent State-Age|timestep of their lives]]:
 
 1. [[Food Growth Wiring|Food is grown]] on every [[Global State-Sites|site]].
 2. All [[Agent|agents]] [[Increase Agent Age Wiring|digest some of the food on their stomach and get older]].
-3. All agents move (if possible) to an available random neighboring location.
-4. The agents reproduce themselves if there is an available partner nearby
+3. All [[Agent Movement Wiring|agents move]] (if possible) to an available random neighboring location.
+4. The [[Agent Reproduction Wiring|agents reproduce]] themselves if there is an available partner nearby
 5. The prey agents feed on the available food
 6. The predator agents hunts the nearby preys
 7. All old enough agents die
