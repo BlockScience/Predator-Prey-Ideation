@@ -84,4 +84,17 @@ partial_state_update_block = [
 Looking at the legacy code, we can find that the following wirings and mechanisms should be in our future model:
 
 1. [[Food Growth Wiring]]
-2. 
+	1. [[Update Food Mechanism]]
+2. [[Increase Agent Age Wiring]]
+	1. [[Update Agents Mechanism]]
+3. [[Agent Movement Wiring]]
+	1. [[Update Agent Locations Mechanism]]
+4. [[Agent Reproduction Wiring]]
+	1. [[Create Agents Mechanism]]
+5. [[Prey Feeding Wiring]]
+	1. [[Update Agents Mechanism]]
+	2. [[Update Food Locations Mechanism]]
+6. [[Hunt Prey Wiring]]
+	1. [[Update Agents Mechanism]]
+7. [[Natural Death Wiring]]
+	1. [[Update Agents Mechanism]]

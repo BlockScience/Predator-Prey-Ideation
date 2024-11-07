@@ -164,8 +164,21 @@
   },
   "active": "4f392ee2a887f287",
   "lastOpenFiles": [
-    "Food Growth Wiring.md",
+    "MSML Scaffold/Mechanisms/Update Agent Locations Mechanism.md",
+    "MSML Scaffold/Wiring/Food Growth Wiring.md",
+    "MSML Scaffold/Mechanisms/Create Agents Mechanism.md",
+    "MSML Scaffold/Wiring/Agent Movement Wiring.md",
     "Legacy Code Review/PSUBs.md",
+    "MSML Scaffold/Mechanisms",
+    "MSML Scaffold/Wiring",
+    "MSML Scaffold/Wiring/Natural Death Wiring.md",
+    "MSML Scaffold/Wiring/Hunt Prey Wiring.md",
+    "MSML Scaffold/Mechanisms/Update Food Locations Mechanism.md",
+    "MSML Scaffold/Wiring/Prey Feeding Wiring.md",
+    "MSML Scaffold/Wiring/Agent Reproduction Wiring.md",
+    "MSML Scaffold/Mechanisms/Update Agents Mechanism.md",
+    "MSML Scaffold/Wiring/Increase Agent Age Wiring.md",
+    "MSML Scaffold/Mechanisms/Update Food Mechanism.md",
     "Legacy Code Review/Legacy Notebook.md"
   ]
 }
