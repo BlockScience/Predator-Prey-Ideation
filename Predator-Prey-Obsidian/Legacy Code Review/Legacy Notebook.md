@@ -9,9 +9,9 @@ For this demo, we'll adopt a model based on a [[Global State-Sites|grid world]],
 2. All [[Agent|agents]] [[Increase Agent Age Wiring|digest some of the food on their stomach and get older]].
 3. All [[Agent Movement Wiring|agents move]] (if possible) to an available random neighboring location.
 4. The [[Agent Reproduction Wiring|agents reproduce]] themselves if there is an available partner nearby
-5. The prey agents feed on the available food
-6. The predator agents hunts the nearby preys
-7. All old enough agents die
+5. The [[Prey Feeding Wiring|prey agents feed]] on the available [[Food Type|food]]
+6. The [[Hunt Prey Wiring|predator agents hunts]] the nearby preys
+7. [[Natural Death Wiring|All old enough agents die]]
 
 There is an inherent stochastic nature on this model, and every time that you run it, we'll have a completely different result for the same parameters. But we can see that there is sort of a random equilibrium that converges to the dynamical equilibrium which we presented on the dynamical simulation.
 
