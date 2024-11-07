@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature Review/Legacy Notebook.md",
+                "file": "Legacy Code Review/PSUBs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Legacy Notebook"
+              "title": "PSUBs"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature Review/Legacy Notebook.md",
+                "file": "Legacy Code Review/PSUBs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Legacy Notebook"
+              "title": "Backlinks for PSUBs"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature Review/Legacy Notebook.md",
+                "file": "Legacy Code Review/PSUBs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Legacy Notebook"
+              "title": "Outgoing links from PSUBs"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature Review/Legacy Notebook.md"
+                "file": "Legacy Code Review/PSUBs.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Legacy Notebook"
+              "title": "Outline of PSUBs"
             }
           }
         ]
@@ -164,6 +164,8 @@
   },
   "active": "4f392ee2a887f287",
   "lastOpenFiles": [
-    "Literature Review/Legacy Notebook.md"
+    "Food Growth Wiring.md",
+    "Legacy Code Review/PSUBs.md",
+    "Legacy Code Review/Legacy Notebook.md"
   ]
 }
