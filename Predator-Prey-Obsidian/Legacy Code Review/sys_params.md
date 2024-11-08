@@ -1,6 +1,6 @@
 ## Code
 
-```
+```python
 """
 Model parameters.
 """

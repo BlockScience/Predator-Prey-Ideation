@@ -2,7 +2,7 @@ Original link: https://github.com/cadCAD-org/demos/blob/master/demos/Agent_Based
 
 ## Code
 
-```
+```python
 from .parts.environment import *
 from .parts.agents import *
 
