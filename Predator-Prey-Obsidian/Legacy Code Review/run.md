@@ -1,4 +1,3 @@
-#WIP
 ## Code
 
 ```python
@@ -85,3 +84,13 @@ def postprocessing(df):
     
     return data
 ```
+
+## Notes
+
+- Added [[Number of Prey Stateful Metric]]
+- Added [[Number of Predators Stateful Metric]]
+- Added [[Median Site Food Stateful Metric]]
+- Added [[Median Prey Food Stateful Metric]]
+- Added [[Median Predator Food Stateful Metric]]
+- Added [[Median Predator Age Stateful Metric]]
+- Added [[Median Prey Age Stateful Metric]]
