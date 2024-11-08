@@ -1,5 +1,3 @@
-#WIP 
-
 ## Code
 
 ```python
@@ -24,3 +22,7 @@ def update_food(params, substep, state_history, prev_state, policy_input):
     value = policy_input['update_food']
     return (key, value)
 ```
+
+## Notes
+
+Ported code

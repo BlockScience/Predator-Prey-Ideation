@@ -48,3 +48,13 @@ def reproduce_agents(params, substep, state_history, prev_state):
                 busy_locations.append(reproduction_location)
     return {'agent_delta_food': agent_delta_food,'agent_create': new_agents}
 ```
+
+```python
+def new_agent(agent_type: str, location: Tuple[int, int],
+              food: int=10, age: int=0) -> dict:
+    agent = {'type': agent_type,
+             'location': location,
+             'food': food,
+             'age':age}
+    return agent
+```

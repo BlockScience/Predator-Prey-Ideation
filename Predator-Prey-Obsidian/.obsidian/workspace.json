@@ -13,15 +13,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Legacy Code Review/parts/agents.md",
+                "file": "Neighbors Metric.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "agents"
+              "title": "Neighbors Metric"
+            }
+          },
+          {
+            "id": "6172fe37fcb2e2a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Legacy Code Review/run.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "run"
+            }
+          },
+          {
+            "id": "2545cf254e0d9758",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Is Neighbor Metric.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Is Neighbor Metric"
+            }
+          },
+          {
+            "id": "c29786dd0fc731d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Is Neighbor Metric.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Is Neighbor Metric"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Legacy Code Review/parts/agents.md",
+                "file": "Legacy Code Review/run.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +146,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for agents"
+              "title": "Backlinks for run"
             }
           },
           {
@@ -112,12 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Legacy Code Review/parts/agents.md",
+                "file": "Legacy Code Review/run.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from agents"
+              "title": "Outgoing links from run"
             }
           },
           {
@@ -139,10 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Legacy Code Review/parts/agents.md"
+                "file": "Legacy Code Review/run.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of agents"
+              "title": "Outline of run"
             }
           }
         ],
@@ -162,22 +205,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4f392ee2a887f287",
+  "active": "6172fe37fcb2e2a7",
   "lastOpenFiles": [
+    "Legacy Code Review/PSUBs.md",
+    "Legacy Code Review/Legacy Notebook.md",
+    "Legacy Code Review/parts/agents.md",
     "Legacy Code Review/parts/enviroment.md",
-    "MSML Scaffold/Wiring/Agent Movement Wiring.md",
+    "Legacy Code Review/parts/utils.md",
+    "Neighboring Valid Tiles Metric.md",
+    "Neighbors Metric.md",
     "MSML Scaffold/Wiring/Agent Reproduction Wiring.md",
+    "MSML Scaffold/Wiring/Agent Movement Wiring.md",
+    "Is Neighbor Metric.md",
     "MSML Scaffold/Wiring/Food Growth Wiring.md",
     "MSML Scaffold/Wiring/Hunt Prey Wiring.md",
     "MSML Scaffold/Wiring/Increase Agent Age Wiring.md",
     "MSML Scaffold/Wiring/Prey Feeding Wiring.md",
     "MSML Scaffold/Wiring/Natural Death Wiring.md",
-    "Legacy Code Review/parts/agents.md",
-    "Legacy Code Review/parts/utils.md",
     "Free Locations Metric.md",
     "Legacy Code Review/sys_params.md",
     "Legacy Code Review/run.md",
-    "Legacy Code Review/PSUBs.md",
     "Legacy Code Review/parts/Untitled",
     "Legacy Code Review/parts",
     "MSML Scaffold/Types/2D Size Type.md",
@@ -189,10 +236,6 @@
     "MSML Scaffold/Parameters/Reproduction Food Threshold.md",
     "MSML Scaffold/Parameters/Reproduction Probability.md",
     "MSML Scaffold/Parameters/Maximum Food per Tile.md",
-    "MSML Scaffold/Parameters/Initial Number of Prey.md",
-    "MSML Scaffold/Parameters/Initial Number of Predators.md",
-    "MSML Scaffold/Parameters/Initial Number of Food Tiles.md",
-    "Legacy Code Review/Legacy Notebook.md",
     "MSML Scaffold/Stateful Metrics",
     "MSML Scaffold/Entities",
     "MSML Scaffold/Types",
