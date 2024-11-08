@@ -1,5 +1,3 @@
-#WIP 
-
 - The [[Agent Reproduction Wiring|agents reproduce]] themselves if there is an available partner nearby
 
 ## Legacy Code

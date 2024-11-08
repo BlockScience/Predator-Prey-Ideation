@@ -1,4 +1,3 @@
-#WIP 
 ## Legacy Code
 
 ```python
@@ -16,3 +15,5 @@ def natural_death(params, substep, state_history, prev_state):
             agents_to_remove.append(agent_label)
     return {'remove_agents': agents_to_remove}
 ```
+
+- Relies on [[Maximum Age Parameter]]

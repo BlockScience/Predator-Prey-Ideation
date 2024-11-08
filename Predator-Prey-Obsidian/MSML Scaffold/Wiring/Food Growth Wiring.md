@@ -1,5 +1,3 @@
-#WIP 
-
 - Food is grown on every site
 
 ## Legacy Code
