@@ -186,3 +186,6 @@ def agent_remove(params, substep, state_history, prev_state, policy_input):
                         if k not in agents_to_remove}
     return ('agents', surviving_agents)
 ```
+
+## Notes
+- Ported code to the relevant scaffolds

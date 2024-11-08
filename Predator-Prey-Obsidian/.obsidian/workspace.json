@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Legacy Code Review/parts/utils.md",
+                "file": "Legacy Code Review/parts/agents.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "utils"
+              "title": "agents"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Legacy Code Review/parts/utils.md",
+                "file": "Legacy Code Review/parts/agents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for utils"
+              "title": "Backlinks for agents"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Legacy Code Review/parts/utils.md",
+                "file": "Legacy Code Review/parts/agents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from utils"
+              "title": "Outgoing links from agents"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Legacy Code Review/parts/utils.md"
+                "file": "Legacy Code Review/parts/agents.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of utils"
+              "title": "Outline of agents"
             }
           }
         ],
@@ -165,8 +165,16 @@
   "active": "4f392ee2a887f287",
   "lastOpenFiles": [
     "Legacy Code Review/parts/enviroment.md",
+    "MSML Scaffold/Wiring/Agent Movement Wiring.md",
+    "MSML Scaffold/Wiring/Agent Reproduction Wiring.md",
+    "MSML Scaffold/Wiring/Food Growth Wiring.md",
+    "MSML Scaffold/Wiring/Hunt Prey Wiring.md",
+    "MSML Scaffold/Wiring/Increase Agent Age Wiring.md",
+    "MSML Scaffold/Wiring/Prey Feeding Wiring.md",
+    "MSML Scaffold/Wiring/Natural Death Wiring.md",
     "Legacy Code Review/parts/agents.md",
     "Legacy Code Review/parts/utils.md",
+    "Free Locations Metric.md",
     "Legacy Code Review/sys_params.md",
     "Legacy Code Review/run.md",
     "Legacy Code Review/PSUBs.md",
@@ -185,14 +193,6 @@
     "MSML Scaffold/Parameters/Initial Number of Predators.md",
     "MSML Scaffold/Parameters/Initial Number of Food Tiles.md",
     "Legacy Code Review/Legacy Notebook.md",
-    "MSML Scaffold/Types/Food Type.md",
-    "MSML Scaffold/Wiring/Agent Reproduction Wiring.md",
-    "MSML Scaffold/Wiring/Agent Movement Wiring.md",
-    "MSML Scaffold/States/Agent State.md",
-    "MSML Scaffold/Entities/Agent.md",
-    "MSML Scaffold/Wiring/Hunt Prey Wiring.md",
-    "MSML Scaffold/Stateful Metrics/Predator Stateful Metric.md",
-    "MSML Scaffold/Stateful Metrics/Prey Stateful Metric.md",
     "MSML Scaffold/Stateful Metrics",
     "MSML Scaffold/Entities",
     "MSML Scaffold/Types",
