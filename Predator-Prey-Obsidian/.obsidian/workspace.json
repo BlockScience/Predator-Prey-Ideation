@@ -39,17 +39,14 @@
             "id": "0fdf2522ba682a72",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "MSML Scaffold 2/MSML Scaffold Canvas.canvas",
-                "viewState": {
-                  "x": 425.5676205847654,
-                  "y": 321.3452225726907,
-                  "zoom": -0.7781474173035942
-                }
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "MSML Scaffold Canvas"
+              "icon": "lucide-file",
+              "title": "README"
             }
           },
           {
@@ -172,12 +169,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MSML Scaffold 2/MSML Scaffold Canvas.canvas",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from MSML Scaffold Canvas"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -224,9 +221,9 @@
   },
   "active": "0fdf2522ba682a72",
   "lastOpenFiles": [
+    "MSML Scaffold 2/MSML Scaffold Canvas.canvas",
     "MSML Scaffold 2/Policies/Agent Movement Policy.md",
     "MSML Scaffold 2/Policies",
-    "MSML Scaffold 2/MSML Scaffold Canvas.canvas",
     "MSML Scaffold 2/Boundary Actions/Agent Reproduction Boundary Action.md",
     "MSML Scaffold 2/Boundary Actions/Agent Movement Boundary Action.md",
     "MSML Scaffold 2/Boundary Actions/Hunt Prey Boundary Action.md",
