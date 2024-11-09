@@ -43,9 +43,9 @@
               "state": {
                 "file": "MSML Scaffold 2/MSML Scaffold Canvas.canvas",
                 "viewState": {
-                  "x": 292.4137508392886,
-                  "y": 213.02365546357834,
-                  "zoom": -0.7818311420083052
+                  "x": 1330.6186348671556,
+                  "y": 377.67054542902434,
+                  "zoom": -1.1120328091581668
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -224,6 +224,12 @@
   },
   "active": "0fdf2522ba682a72",
   "lastOpenFiles": [
+    "Prey Feeding Boundary Action.md",
+    "Natural Death Control Action.md",
+    "Increase Age Control Action.md",
+    "Hunt Prey Boundary Action.md",
+    "Food Growth Control Action.md",
+    "Agent Reproduction Boundary Action.md",
     "MSML Scaffold 2/Boundary Actions/Agent Movement Boundary Action.md",
     "MSML Scaffold 2/MSML Scaffold Canvas.canvas",
     "MSML Scaffold 2/Control Actions",
@@ -247,11 +253,6 @@
     "MSML Scaffold 2/Stateful Metrics/Number of Predators Stateful Metric.md",
     "MSML Scaffold 2/Stateful Metrics/Number of Prey Stateful Metric.md",
     "MSML Scaffold 2/Stateful Metrics/Predator Stateful Metric.md",
-    "MSML Scaffold 2/State Variables/Global State-Sites.md",
-    "MSML Scaffold 2/State Variables/Agent State-Agent Type.md",
-    "MSML Scaffold 2/State Variables/Agent State-Age.md",
-    "MSML Scaffold 2/Parameters/Initial Number of Prey.md",
-    "MSML Scaffold 2/Parameters/Maximum Food per Tile.md",
     "MSML Scaffold 2/Types",
     "MSML Scaffold 2/States",
     "MSML Scaffold 2/Stateful Metrics",

@@ -1,16 +1,28 @@
 {
 	"nodes":[
 		{"id":"8a4077fec9f2a5df","type":"group","x":-204,"y":-211,"width":3464,"height":440,"label":"Wirings"},
-		{"id":"85ae025bac718b0b","type":"file","file":"MSML Scaffold 2/Wiring/Hunt Prey Wiring.md","x":1320,"y":-191,"width":400,"height":400},
-		{"id":"bc7256192f90ec7a","type":"file","file":"MSML Scaffold 2/Wiring/Increase Agent Age Wiring.md","x":1840,"y":-191,"width":400,"height":400},
-		{"id":"17fc0cb1b918768a","type":"file","file":"MSML Scaffold 2/Wiring/Natural Death Wiring.md","x":2320,"y":-191,"width":400,"height":400},
-		{"id":"5ebad9baf8169a50","type":"file","file":"MSML Scaffold 2/Wiring/Prey Feeding Wiring.md","x":2840,"y":-191,"width":400,"height":400},
 		{"id":"6dc4e9d504902a64","type":"file","file":"MSML Scaffold 2/Wiring/Agent Movement Wiring.md","x":-184,"y":-191,"width":400,"height":400},
 		{"id":"64d96205bdce457c","type":"file","file":"MSML Scaffold 2/Wiring/Agent Reproduction Wiring.md","x":320,"y":-191,"width":400,"height":400},
 		{"id":"40c9ea4987bebac0","type":"file","file":"MSML Scaffold 2/Wiring/Food Growth Wiring.md","x":825,"y":-191,"width":400,"height":400},
-		{"id":"f64c97f70b96f687","x":-184,"y":300,"width":400,"height":400,"type":"file","file":"MSML Scaffold 2/Boundary Actions/Agent Movement Boundary Action.md"}
+		{"id":"f64c97f70b96f687","x":-184,"y":300,"width":400,"height":400,"type":"file","file":"MSML Scaffold 2/Boundary Actions/Agent Movement Boundary Action.md"},
+		{"id":"85ae025bac718b0b","type":"file","file":"MSML Scaffold 2/Wiring/Hunt Prey Wiring.md","x":1320,"y":-191,"width":400,"height":400},
+		{"id":"ae49ca7f9ff35ea5","x":320,"y":300,"width":400,"height":400,"type":"file","file":"Agent Reproduction Boundary Action.md"},
+		{"id":"bc7256192f90ec7a","type":"file","file":"MSML Scaffold 2/Wiring/Increase Agent Age Wiring.md","x":1840,"y":-191,"width":400,"height":400},
+		{"id":"a4f88d9e7e7835b8","x":825,"y":300,"width":400,"height":400,"type":"file","file":"Food Growth Control Action.md"},
+		{"id":"9e66294f9b9a627e","x":1320,"y":300,"width":400,"height":400,"type":"file","file":"Hunt Prey Boundary Action.md"},
+		{"id":"17fc0cb1b918768a","type":"file","file":"MSML Scaffold 2/Wiring/Natural Death Wiring.md","x":2320,"y":-191,"width":400,"height":400},
+		{"id":"5ebad9baf8169a50","type":"file","file":"MSML Scaffold 2/Wiring/Prey Feeding Wiring.md","x":2840,"y":-191,"width":400,"height":400},
+		{"id":"2b59b835166909a0","x":1840,"y":300,"width":400,"height":400,"type":"file","file":"Increase Age Control Action.md"},
+		{"id":"24573ee78995dcff","x":2320,"y":300,"width":400,"height":400,"type":"file","file":"Natural Death Control Action.md"},
+		{"id":"ba30e9967200fc4a","x":2840,"y":300,"width":400,"height":400,"type":"file","file":"Prey Feeding Boundary Action.md"}
 	],
 	"edges":[
-		{"id":"c39dee0d309ced44","fromNode":"6dc4e9d504902a64","fromSide":"bottom","toNode":"f64c97f70b96f687","toSide":"top"}
+		{"id":"c39dee0d309ced44","fromNode":"6dc4e9d504902a64","fromSide":"bottom","toNode":"f64c97f70b96f687","toSide":"top"},
+		{"id":"3e49a117d36aecc3","fromNode":"64d96205bdce457c","fromSide":"bottom","toNode":"ae49ca7f9ff35ea5","toSide":"top"},
+		{"id":"7099f1b30e71b272","fromNode":"40c9ea4987bebac0","fromSide":"bottom","toNode":"a4f88d9e7e7835b8","toSide":"top"},
+		{"id":"0323230e9da31f4b","fromNode":"85ae025bac718b0b","fromSide":"bottom","toNode":"9e66294f9b9a627e","toSide":"top"},
+		{"id":"a04900da39d23ee7","fromNode":"bc7256192f90ec7a","fromSide":"bottom","toNode":"2b59b835166909a0","toSide":"top"},
+		{"id":"9706dd072e5828a4","fromNode":"17fc0cb1b918768a","fromSide":"bottom","toNode":"24573ee78995dcff","toSide":"top"},
+		{"id":"28b3771c3d3c4375","fromNode":"5ebad9baf8169a50","fromSide":"bottom","toNode":"ba30e9967200fc4a","toSide":"top"}
 	]
 }
