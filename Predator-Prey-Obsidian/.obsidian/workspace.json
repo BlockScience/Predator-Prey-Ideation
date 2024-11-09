@@ -43,9 +43,9 @@
               "state": {
                 "file": "MSML Scaffold 2/MSML Scaffold Canvas.canvas",
                 "viewState": {
-                  "x": 1330.6186348671556,
-                  "y": 377.67054542902434,
-                  "zoom": -1.1120328091581668
+                  "x": 425.5676205847654,
+                  "y": 321.3452225726907,
+                  "zoom": -0.7781474173035942
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -224,14 +224,19 @@
   },
   "active": "0fdf2522ba682a72",
   "lastOpenFiles": [
-    "Prey Feeding Boundary Action.md",
-    "Natural Death Control Action.md",
-    "Increase Age Control Action.md",
-    "Hunt Prey Boundary Action.md",
-    "Food Growth Control Action.md",
-    "Agent Reproduction Boundary Action.md",
-    "MSML Scaffold 2/Boundary Actions/Agent Movement Boundary Action.md",
+    "MSML Scaffold 2/Policies/Agent Movement Policy.md",
+    "MSML Scaffold 2/Policies",
     "MSML Scaffold 2/MSML Scaffold Canvas.canvas",
+    "MSML Scaffold 2/Boundary Actions/Agent Reproduction Boundary Action.md",
+    "MSML Scaffold 2/Boundary Actions/Agent Movement Boundary Action.md",
+    "MSML Scaffold 2/Boundary Actions/Hunt Prey Boundary Action.md",
+    "MSML Scaffold 2/Boundary Actions/Prey Feeding Boundary Action.md",
+    "MSML Scaffold 2/Spaces/Agents Space.md",
+    "MSML Scaffold 2/Types/Agent Array Type.md",
+    "MSML Scaffold 2/Spaces",
+    "MSML Scaffold 2/Control Actions/Increase Age Control Action.md",
+    "MSML Scaffold 2/Control Actions/Food Growth Control Action.md",
+    "MSML Scaffold 2/Control Actions/Natural Death Control Action.md",
     "MSML Scaffold 2/Control Actions",
     "MSML Scaffold 2/Boundary Actions",
     "MSML Scaffold 2/Wiring/Natural Death Wiring.md",
@@ -249,17 +254,11 @@
     "MSML Scaffold 2/Stateful Metrics/Median Predator Age Stateful Metric.md",
     "MSML Scaffold 2/Stateful Metrics/Median Prey Food Stateful Metric.md",
     "MSML Scaffold 2/Stateful Metrics/Prey Stateful Metric.md",
-    "MSML Scaffold 2/Stateful Metrics/Median Predator Food Stateful Metric.md",
-    "MSML Scaffold 2/Stateful Metrics/Number of Predators Stateful Metric.md",
-    "MSML Scaffold 2/Stateful Metrics/Number of Prey Stateful Metric.md",
-    "MSML Scaffold 2/Stateful Metrics/Predator Stateful Metric.md",
     "MSML Scaffold 2/Types",
     "MSML Scaffold 2/States",
     "MSML Scaffold 2/Stateful Metrics",
     "MSML Scaffold 2/State Variables",
     "MSML Scaffold 2/Parameters",
-    "MSML Scaffold 2/Metrics",
-    "MSML Scaffold 2/Mechanisms",
-    "MSML Scaffold 2/Entities"
+    "MSML Scaffold 2/Metrics"
   ]
 }
