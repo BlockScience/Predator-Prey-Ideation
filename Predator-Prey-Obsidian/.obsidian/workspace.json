@@ -39,14 +39,17 @@
             "id": "0fdf2522ba682a72",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "MSML Scaffold 2/MSML Scaffold Canvas.canvas",
+                "viewState": {
+                  "x": 292.4137508392886,
+                  "y": 213.02365546357834,
+                  "zoom": -0.7818311420083052
+                }
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-layout-dashboard",
+              "title": "MSML Scaffold Canvas"
             }
           },
           {
@@ -169,12 +172,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "MSML Scaffold 2/MSML Scaffold Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from MSML Scaffold Canvas"
             }
           },
           {
@@ -221,41 +224,41 @@
   },
   "active": "0fdf2522ba682a72",
   "lastOpenFiles": [
-    "MSML Scaffold/Metrics/Is Neighbor Metric.md",
+    "MSML Scaffold 2/Boundary Actions/Agent Movement Boundary Action.md",
+    "MSML Scaffold 2/MSML Scaffold Canvas.canvas",
+    "MSML Scaffold 2/Control Actions",
+    "MSML Scaffold 2/Boundary Actions",
+    "MSML Scaffold 2/Wiring/Natural Death Wiring.md",
+    "MSML Scaffold 2/Wiring/Increase Agent Age Wiring.md",
+    "MSML Scaffold 2/Wiring/Hunt Prey Wiring.md",
+    "MSML Scaffold 2/Wiring/Food Growth Wiring.md",
+    "MSML Scaffold 2/Wiring/Agent Movement Wiring.md",
     "README.md",
-    "Legacy Code Review/parts/utils.md",
-    "Legacy Code Review/parts/enviroment.md",
-    "Legacy Code Review/parts/agents.md",
-    "MSML Scaffold/Metrics/Neighbors Metric.md",
-    "MSML Scaffold/Wiring/Agent Movement Wiring.md",
-    "MSML Scaffold/Wiring/Prey Feeding Wiring.md",
-    "MSML Scaffold/Wiring/Natural Death Wiring.md",
-    "MSML Scaffold/Wiring/Increase Agent Age Wiring.md",
-    "MSML Scaffold/Parameters/Maximum Age Parameter.md",
-    "MSML Scaffold/Wiring/Hunt Prey Wiring.md",
-    "MSML Scaffold/Wiring/Food Growth Wiring.md",
-    "MSML Scaffold/Wiring/Agent Reproduction Wiring.md",
-    "MSML Scaffold/Stateful Metrics/Median Predator Age Stateful Metric.md",
-    "MSML Scaffold/Stateful Metrics/Median Predator Food Stateful Metric.md",
-    "MSML Scaffold/Stateful Metrics/Median Prey Age Stateful Metric.md",
-    "MSML Scaffold/Stateful Metrics/Median Prey Food Stateful Metric.md",
-    "MSML Scaffold/Stateful Metrics/Median Site Food Stateful Metric.md",
-    "MSML Scaffold/Stateful Metrics/Number of Predators Stateful Metric.md",
-    "MSML Scaffold/Stateful Metrics/Number of Prey Stateful Metric.md",
-    "MSML Scaffold/Stateful Metrics/Predator Stateful Metric.md",
-    "MSML Scaffold/Stateful Metrics/Prey Stateful Metric.md",
-    "MSML Scaffold/States/Global State.md",
-    "MSML Scaffold/States/Agent State.md",
-    "MSML Scaffold/Types/2D Size Type.md",
-    "MSML Scaffold/Metrics",
-    "Legacy Code Review/parts/Untitled",
-    "Legacy Code Review/parts",
-    "MSML Scaffold/Parameters",
-    "MSML Scaffold/Stateful Metrics",
-    "MSML Scaffold/Entities",
-    "MSML Scaffold/Types",
-    "MSML Scaffold/State Variables",
-    "MSML Scaffold/States",
-    "MSML Scaffold/Mechanisms"
+    "MSML Scaffold 2/Types/2D Size Type.md",
+    "MSML Scaffold 2/Types/Food Type.md",
+    "MSML Scaffold 2/States/Agent State.md",
+    "MSML Scaffold 2/States/Global State.md",
+    "MSML Scaffold 2/Stateful Metrics/Median Site Food Stateful Metric.md",
+    "MSML Scaffold 2/Stateful Metrics/Median Prey Age Stateful Metric.md",
+    "MSML Scaffold 2/Stateful Metrics/Median Predator Age Stateful Metric.md",
+    "MSML Scaffold 2/Stateful Metrics/Median Prey Food Stateful Metric.md",
+    "MSML Scaffold 2/Stateful Metrics/Prey Stateful Metric.md",
+    "MSML Scaffold 2/Stateful Metrics/Median Predator Food Stateful Metric.md",
+    "MSML Scaffold 2/Stateful Metrics/Number of Predators Stateful Metric.md",
+    "MSML Scaffold 2/Stateful Metrics/Number of Prey Stateful Metric.md",
+    "MSML Scaffold 2/Stateful Metrics/Predator Stateful Metric.md",
+    "MSML Scaffold 2/State Variables/Global State-Sites.md",
+    "MSML Scaffold 2/State Variables/Agent State-Agent Type.md",
+    "MSML Scaffold 2/State Variables/Agent State-Age.md",
+    "MSML Scaffold 2/Parameters/Initial Number of Prey.md",
+    "MSML Scaffold 2/Parameters/Maximum Food per Tile.md",
+    "MSML Scaffold 2/Types",
+    "MSML Scaffold 2/States",
+    "MSML Scaffold 2/Stateful Metrics",
+    "MSML Scaffold 2/State Variables",
+    "MSML Scaffold 2/Parameters",
+    "MSML Scaffold 2/Metrics",
+    "MSML Scaffold 2/Mechanisms",
+    "MSML Scaffold 2/Entities"
   ]
 }

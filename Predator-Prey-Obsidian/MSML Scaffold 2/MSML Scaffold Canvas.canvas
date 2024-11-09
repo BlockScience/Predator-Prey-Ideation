@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"8a4077fec9f2a5df","type":"group","x":-204,"y":-211,"width":3464,"height":440,"label":"Wirings"},
+		{"id":"85ae025bac718b0b","type":"file","file":"MSML Scaffold 2/Wiring/Hunt Prey Wiring.md","x":1320,"y":-191,"width":400,"height":400},
+		{"id":"bc7256192f90ec7a","type":"file","file":"MSML Scaffold 2/Wiring/Increase Agent Age Wiring.md","x":1840,"y":-191,"width":400,"height":400},
+		{"id":"17fc0cb1b918768a","type":"file","file":"MSML Scaffold 2/Wiring/Natural Death Wiring.md","x":2320,"y":-191,"width":400,"height":400},
+		{"id":"5ebad9baf8169a50","type":"file","file":"MSML Scaffold 2/Wiring/Prey Feeding Wiring.md","x":2840,"y":-191,"width":400,"height":400},
+		{"id":"6dc4e9d504902a64","type":"file","file":"MSML Scaffold 2/Wiring/Agent Movement Wiring.md","x":-184,"y":-191,"width":400,"height":400},
+		{"id":"64d96205bdce457c","type":"file","file":"MSML Scaffold 2/Wiring/Agent Reproduction Wiring.md","x":320,"y":-191,"width":400,"height":400},
+		{"id":"40c9ea4987bebac0","type":"file","file":"MSML Scaffold 2/Wiring/Food Growth Wiring.md","x":825,"y":-191,"width":400,"height":400},
+		{"id":"f64c97f70b96f687","x":-184,"y":300,"width":400,"height":400,"type":"file","file":"MSML Scaffold 2/Boundary Actions/Agent Movement Boundary Action.md"}
+	],
+	"edges":[
+		{"id":"c39dee0d309ced44","fromNode":"6dc4e9d504902a64","fromSide":"bottom","toNode":"f64c97f70b96f687","toSide":"top"}
+	]
+}
