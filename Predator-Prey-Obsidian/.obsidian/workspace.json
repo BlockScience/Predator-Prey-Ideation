@@ -36,6 +36,20 @@
             }
           },
           {
+            "id": "0fdf2522ba682a72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
             "id": "2545cf254e0d9758",
             "type": "leaf",
             "state": {
@@ -64,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -155,12 +169,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MSML Scaffold/Metrics/Is Neighbor Metric.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Is Neighbor Metric"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -205,13 +219,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6172fe37fcb2e2a7",
+  "active": "0fdf2522ba682a72",
   "lastOpenFiles": [
+    "MSML Scaffold/Metrics/Is Neighbor Metric.md",
+    "README.md",
     "Legacy Code Review/parts/utils.md",
     "Legacy Code Review/parts/enviroment.md",
     "Legacy Code Review/parts/agents.md",
     "MSML Scaffold/Metrics/Neighbors Metric.md",
-    "MSML Scaffold/Metrics/Is Neighbor Metric.md",
     "MSML Scaffold/Wiring/Agent Movement Wiring.md",
     "MSML Scaffold/Wiring/Prey Feeding Wiring.md",
     "MSML Scaffold/Wiring/Natural Death Wiring.md",
@@ -232,7 +247,6 @@
     "MSML Scaffold/States/Global State.md",
     "MSML Scaffold/States/Agent State.md",
     "MSML Scaffold/Types/2D Size Type.md",
-    "MSML Scaffold/Types/Food Type.md",
     "MSML Scaffold/Metrics",
     "Legacy Code Review/parts/Untitled",
     "Legacy Code Review/parts",
