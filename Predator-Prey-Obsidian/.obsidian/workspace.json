@@ -11,27 +11,13 @@
             "id": "4f392ee2a887f287",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MSML Scaffold/Metrics/Neighbors Metric.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Neighbors Metric"
-            }
-          },
-          {
-            "id": "6172fe37fcb2e2a7",
-            "type": "leaf",
-            "state": {
               "type": "canvas",
               "state": {
                 "file": "MSML Scaffold 2/MSML Scaffold Canvas.canvas",
                 "viewState": {
-                  "x": 649.1321606013233,
-                  "y": 1117.7045992847447,
-                  "zoom": -0.83910244839235
+                  "x": 1302.1082375518968,
+                  "y": 947.5100907909565,
+                  "zoom": -1.0197595195822524
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -66,8 +52,7 @@
               "title": "Is Neighbor Metric"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,8 +218,23 @@
                   "icon": "lucide-file",
                   "title": "Agent Reproduction Wiring"
                 }
+              },
+              {
+                "id": "6172fe37fcb2e2a7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "MSML Scaffold 2/Wiring/Food Growth Wiring.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Food Growth Wiring"
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -247,12 +247,14 @@
       }
     ]
   },
-  "active": "6172fe37fcb2e2a7",
+  "active": "4f392ee2a887f287",
   "lastOpenFiles": [
+    "Food Growth Policy.md",
+    "MSML Scaffold 2/Wiring/Food Growth Wiring.md",
+    "MSML Scaffold 2/MSML Scaffold Canvas.canvas",
+    "MSML Scaffold 2/Wiring/Agent Reproduction Wiring.md",
     "Agent Reproduction Policy.md",
     "MSML Scaffold/Metrics/Is Neighbor Metric.md",
-    "MSML Scaffold 2/Wiring/Agent Reproduction Wiring.md",
-    "MSML Scaffold 2/MSML Scaffold Canvas.canvas",
     "README.md",
     "MSML Scaffold 2/Policies/Agent Movement Policy.md",
     "MSML Scaffold 2/Policies",
@@ -271,7 +273,6 @@
     "MSML Scaffold 2/Wiring/Natural Death Wiring.md",
     "MSML Scaffold 2/Wiring/Increase Agent Age Wiring.md",
     "MSML Scaffold 2/Wiring/Hunt Prey Wiring.md",
-    "MSML Scaffold 2/Wiring/Food Growth Wiring.md",
     "MSML Scaffold 2/Wiring/Agent Movement Wiring.md",
     "MSML Scaffold 2/Types/2D Size Type.md",
     "MSML Scaffold 2/Types/Food Type.md",
@@ -279,7 +280,6 @@
     "MSML Scaffold 2/States/Global State.md",
     "MSML Scaffold 2/Stateful Metrics/Median Site Food Stateful Metric.md",
     "MSML Scaffold 2/Stateful Metrics/Median Prey Age Stateful Metric.md",
-    "MSML Scaffold 2/Stateful Metrics/Median Predator Age Stateful Metric.md",
     "MSML Scaffold 2/Types",
     "MSML Scaffold 2/States",
     "MSML Scaffold 2/Stateful Metrics",

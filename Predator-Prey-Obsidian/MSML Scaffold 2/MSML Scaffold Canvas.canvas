@@ -8,18 +8,20 @@
 		{"id":"17fc0cb1b918768a","type":"file","file":"MSML Scaffold 2/Wiring/Natural Death Wiring.md","x":2320,"y":-191,"width":400,"height":400},
 		{"id":"5ebad9baf8169a50","type":"file","file":"MSML Scaffold 2/Wiring/Prey Feeding Wiring.md","x":2840,"y":-191,"width":400,"height":400},
 		{"id":"24573ee78995dcff","type":"file","file":"MSML Scaffold 2/Control Actions/Natural Death Control Action.md","x":2320,"y":300,"width":400,"height":400},
-		{"id":"40c9ea4987bebac0","type":"file","file":"MSML Scaffold 2/Wiring/Food Growth Wiring.md","x":825,"y":-191,"width":400,"height":400},
 		{"id":"ba30e9967200fc4a","type":"file","file":"MSML Scaffold 2/Boundary Actions/Prey Feeding Boundary Action.md","x":2840,"y":300,"width":400,"height":400},
+		{"id":"40c9ea4987bebac0","type":"file","file":"MSML Scaffold 2/Wiring/Food Growth Wiring.md","x":825,"y":-191,"width":400,"height":400},
 		{"id":"85ae025bac718b0b","type":"file","file":"MSML Scaffold 2/Wiring/Hunt Prey Wiring.md","x":1320,"y":-191,"width":400,"height":400},
 		{"id":"bc7256192f90ec7a","type":"file","file":"MSML Scaffold 2/Wiring/Increase Agent Age Wiring.md","x":1840,"y":-191,"width":400,"height":400},
 		{"id":"a4f88d9e7e7835b8","type":"file","file":"MSML Scaffold 2/Control Actions/Food Growth Control Action.md","x":825,"y":300,"width":400,"height":400},
 		{"id":"9e66294f9b9a627e","type":"file","file":"MSML Scaffold 2/Boundary Actions/Hunt Prey Boundary Action.md","x":1320,"y":300,"width":400,"height":400},
 		{"id":"2b59b835166909a0","type":"file","file":"MSML Scaffold 2/Control Actions/Increase Age Control Action.md","x":1840,"y":300,"width":400,"height":400},
-		{"id":"e8928b32d6e4ee64","x":320,"y":800,"width":400,"height":400,"type":"file","file":"Agent Reproduction Policy.md"},
-		{"id":"cba3923c45808496","type":"file","file":"MSML Scaffold 2/Policies/Agent Movement Policy.md","x":-384,"y":800,"width":400,"height":400},
-		{"id":"c77f9cfc00d7c903","type":"file","file":"MSML Scaffold 2/Mechanisms/Update Agent Locations Mechanism.md","x":-384,"y":1280,"width":400,"height":400},
-		{"id":"d70a3b9eedc76f4a","x":120,"y":1280,"width":400,"height":400,"type":"file","file":"MSML Scaffold 2/Mechanisms/Update Food Mechanism.md"},
-		{"id":"0761843a7a59d60f","x":625,"y":1280,"width":400,"height":400,"type":"file","file":"MSML Scaffold 2/Mechanisms/Create Agents Mechanism.md"}
+		{"id":"01c047384c58ba52","x":825,"y":800,"width":400,"height":400,"type":"file","file":"Food Growth Policy.md"},
+		{"id":"cba3923c45808496","type":"file","file":"MSML Scaffold 2/Policies/Agent Movement Policy.md","x":-489,"y":800,"width":400,"height":400},
+		{"id":"c77f9cfc00d7c903","type":"file","file":"MSML Scaffold 2/Mechanisms/Update Agent Locations Mechanism.md","x":-489,"y":1280,"width":400,"height":400},
+		{"id":"d70a3b9eedc76f4a","type":"file","file":"MSML Scaffold 2/Mechanisms/Update Food Mechanism.md","x":15,"y":1280,"width":400,"height":400},
+		{"id":"e8928b32d6e4ee64","type":"file","file":"Agent Reproduction Policy.md","x":215,"y":800,"width":400,"height":400},
+		{"id":"0761843a7a59d60f","type":"file","file":"MSML Scaffold 2/Mechanisms/Create Agents Mechanism.md","x":520,"y":1280,"width":400,"height":400},
+		{"id":"177af64f2f0b4301","x":980,"y":1280,"width":400,"height":400,"type":"file","file":"MSML Scaffold 2/Mechanisms/Update Food Locations Mechanism.md"}
 	],
 	"edges":[
 		{"id":"c39dee0d309ced44","fromNode":"6dc4e9d504902a64","fromSide":"bottom","toNode":"f64c97f70b96f687","toSide":"top"},
@@ -33,6 +35,8 @@
 		{"id":"41b8e9ac9673f689","fromNode":"cba3923c45808496","fromSide":"bottom","toNode":"c77f9cfc00d7c903","toSide":"top"},
 		{"id":"11e9ff23ea4c788a","fromNode":"ae49ca7f9ff35ea5","fromSide":"bottom","toNode":"e8928b32d6e4ee64","toSide":"top"},
 		{"id":"598be0024fb4e6d4","fromNode":"e8928b32d6e4ee64","fromSide":"bottom","toNode":"d70a3b9eedc76f4a","toSide":"top"},
-		{"id":"d5e3c89d85c12239","fromNode":"e8928b32d6e4ee64","fromSide":"bottom","toNode":"0761843a7a59d60f","toSide":"top"}
+		{"id":"d5e3c89d85c12239","fromNode":"e8928b32d6e4ee64","fromSide":"bottom","toNode":"0761843a7a59d60f","toSide":"top"},
+		{"id":"4437c49d071a1e4d","fromNode":"a4f88d9e7e7835b8","fromSide":"bottom","toNode":"01c047384c58ba52","toSide":"top"},
+		{"id":"91291b6a2d3fc644","fromNode":"01c047384c58ba52","fromSide":"bottom","toNode":"177af64f2f0b4301","toSide":"top"}
 	]
 }
