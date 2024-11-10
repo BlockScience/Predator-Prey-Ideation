@@ -15,9 +15,9 @@
               "state": {
                 "file": "MSML Scaffold 2/MSML Scaffold Canvas.canvas",
                 "viewState": {
-                  "x": 1082.2646467373984,
-                  "y": 361.3442231514829,
-                  "zoom": -0.8085068882576925
+                  "x": 545.9202699576397,
+                  "y": 1383.2495920741526,
+                  "zoom": -1.178782986111671
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -195,9 +195,10 @@
   },
   "active": "4f392ee2a887f287",
   "lastOpenFiles": [
-    "Locations Space.md",
+    "MSML Scaffold 2/Spaces/Agent Age Delta Space.md",
+    "MSML Scaffold 2/Spaces/Agent Location Space.md",
     "MSML Scaffold 2/MSML Scaffold Canvas.canvas",
-    "Agent Age Delta Space.md",
+    "MSML Scaffold 2/Spaces/Locations Space.md",
     "MSML Scaffold 2/Mechanisms/Remove Agents Mechanism.md",
     "MSML Scaffold 2/Policies/Natural Death Policy.md",
     "MSML Scaffold 2/Spaces/Location Food Delta Space.md",
@@ -221,7 +222,6 @@
     "README.md",
     "MSML Scaffold 2/Policies/Agent Movement Policy.md",
     "MSML Scaffold 2/Policies",
-    "MSML Scaffold 2/Boundary Actions/Agent Reproduction Boundary Action.md",
     "MSML Scaffold 2/Spaces",
     "MSML Scaffold 2/Control Actions",
     "MSML Scaffold 2/Boundary Actions",
