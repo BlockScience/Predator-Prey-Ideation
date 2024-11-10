@@ -15,9 +15,9 @@
               "state": {
                 "file": "MSML Scaffold 2/MSML Scaffold Canvas.canvas",
                 "viewState": {
-                  "x": 1380.9536800657172,
-                  "y": 1140.2705074654425,
-                  "zoom": -1.153077456638476
+                  "x": 1636.9065376431622,
+                  "y": 1259.692122288164,
+                  "zoom": -1.5025082674476116
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -143,12 +143,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MSML Scaffold 2/MSML Scaffold Canvas.canvas",
+                "file": "MSML Scaffold 2/Wiring/Increase Agent Age Wiring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from MSML Scaffold Canvas"
+              "title": "Outgoing links from Increase Agent Age Wiring"
             }
           },
           {
@@ -234,17 +234,17 @@
                 }
               },
               {
-                "id": "83a645447cf5fd65",
+                "id": "e1f5447e0a384370",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "MSML Scaffold 2/Wiring/Hunt Prey Wiring.md",
+                    "file": "MSML Scaffold 2/Wiring/Increase Agent Age Wiring.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Hunt Prey Wiring"
+                  "title": "Increase Agent Age Wiring"
                 }
               }
             ],
@@ -261,11 +261,14 @@
       }
     ]
   },
-  "active": "4f392ee2a887f287",
+  "active": "e1f5447e0a384370",
   "lastOpenFiles": [
-    "Hunt Prey Policy.md",
-    "MSML Scaffold 2/Wiring/Hunt Prey Wiring.md",
     "MSML Scaffold 2/MSML Scaffold Canvas.canvas",
+    "Remove Agents Mechanism.md",
+    "Increase Agent Age Policy.md",
+    "MSML Scaffold 2/Wiring/Increase Agent Age Wiring.md",
+    "MSML Scaffold 2/Wiring/Hunt Prey Wiring.md",
+    "Hunt Prey Policy.md",
     "MSML Scaffold 2/Wiring/Food Growth Wiring.md",
     "Food Growth Policy.md",
     "MSML Scaffold 2/Wiring/Agent Reproduction Wiring.md",
@@ -287,13 +290,9 @@
     "MSML Scaffold 2/Control Actions",
     "MSML Scaffold 2/Boundary Actions",
     "MSML Scaffold 2/Wiring/Natural Death Wiring.md",
-    "MSML Scaffold 2/Wiring/Increase Agent Age Wiring.md",
     "MSML Scaffold 2/Wiring/Agent Movement Wiring.md",
     "MSML Scaffold 2/Types/2D Size Type.md",
     "MSML Scaffold 2/Types/Food Type.md",
-    "MSML Scaffold 2/States/Agent State.md",
-    "MSML Scaffold 2/States/Global State.md",
-    "MSML Scaffold 2/Stateful Metrics/Median Site Food Stateful Metric.md",
     "MSML Scaffold 2/Types",
     "MSML Scaffold 2/States",
     "MSML Scaffold 2/Stateful Metrics",

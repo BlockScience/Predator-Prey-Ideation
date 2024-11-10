@@ -1,8 +1,6 @@
 {
 	"nodes":[
 		{"id":"8a4077fec9f2a5df","type":"group","x":-204,"y":-211,"width":3464,"height":440,"label":"Wirings"},
-		{"id":"5ebad9baf8169a50","type":"file","file":"MSML Scaffold 2/Wiring/Prey Feeding Wiring.md","x":2840,"y":-191,"width":400,"height":400},
-		{"id":"ba30e9967200fc4a","type":"file","file":"MSML Scaffold 2/Boundary Actions/Prey Feeding Boundary Action.md","x":2840,"y":300,"width":400,"height":400},
 		{"id":"40c9ea4987bebac0","type":"file","file":"MSML Scaffold 2/Wiring/Food Growth Wiring.md","x":825,"y":-191,"width":400,"height":400},
 		{"id":"85ae025bac718b0b","type":"file","file":"MSML Scaffold 2/Wiring/Hunt Prey Wiring.md","x":1320,"y":-191,"width":400,"height":400},
 		{"id":"bc7256192f90ec7a","type":"file","file":"MSML Scaffold 2/Wiring/Increase Agent Age Wiring.md","x":1840,"y":-191,"width":400,"height":400},
@@ -23,7 +21,11 @@
 		{"id":"fc445ffc41099a74","x":1440,"y":1360,"width":400,"height":400,"type":"file","file":"MSML Scaffold 2/Mechanisms/Update Agents Mechanism.md"},
 		{"id":"c77f9cfc00d7c903","type":"file","file":"MSML Scaffold 2/Mechanisms/Update Agent Locations Mechanism.md","x":-584,"y":1360,"width":400,"height":400},
 		{"id":"0761843a7a59d60f","type":"file","file":"MSML Scaffold 2/Mechanisms/Create Agents Mechanism.md","x":-89,"y":1360,"width":400,"height":400},
-		{"id":"d70a3b9eedc76f4a","type":"file","file":"MSML Scaffold 2/Mechanisms/Update Food Mechanism.md","x":415,"y":1360,"width":400,"height":400}
+		{"id":"d70a3b9eedc76f4a","type":"file","file":"MSML Scaffold 2/Mechanisms/Update Food Mechanism.md","x":415,"y":1360,"width":400,"height":400},
+		{"id":"5ebad9baf8169a50","type":"file","file":"MSML Scaffold 2/Wiring/Prey Feeding Wiring.md","x":2840,"y":-191,"width":400,"height":400},
+		{"id":"ba30e9967200fc4a","type":"file","file":"MSML Scaffold 2/Boundary Actions/Prey Feeding Boundary Action.md","x":2840,"y":300,"width":400,"height":400},
+		{"id":"f0456cf6b1c63fa6","x":1840,"y":800,"width":400,"height":400,"type":"file","file":"Increase Agent Age Policy.md"},
+		{"id":"248c95001337e15c","x":1920,"y":1360,"width":400,"height":400,"type":"file","file":"Remove Agents Mechanism.md"}
 	],
 	"edges":[
 		{"id":"c39dee0d309ced44","fromNode":"6dc4e9d504902a64","fromSide":"bottom","toNode":"f64c97f70b96f687","toSide":"top"},
@@ -42,6 +44,9 @@
 		{"id":"91291b6a2d3fc644","fromNode":"01c047384c58ba52","fromSide":"bottom","toNode":"177af64f2f0b4301","toSide":"top"},
 		{"id":"5dd44c9d7b8461f1","fromNode":"8246f9888504e790","fromSide":"bottom","toNode":"fc445ffc41099a74","toSide":"top"},
 		{"id":"f8d8bb5c3415310a","fromNode":"9e66294f9b9a627e","fromSide":"bottom","toNode":"8246f9888504e790","toSide":"top"},
-		{"id":"1b45cb67b91f5bc3","fromNode":"8246f9888504e790","fromSide":"bottom","toNode":"d70a3b9eedc76f4a","toSide":"top"}
+		{"id":"1b45cb67b91f5bc3","fromNode":"8246f9888504e790","fromSide":"bottom","toNode":"d70a3b9eedc76f4a","toSide":"top"},
+		{"id":"b2e5ea358f202238","fromNode":"2b59b835166909a0","fromSide":"bottom","toNode":"f0456cf6b1c63fa6","toSide":"top"},
+		{"id":"3f53496dd311f35a","fromNode":"f0456cf6b1c63fa6","fromSide":"bottom","toNode":"248c95001337e15c","toSide":"top"},
+		{"id":"d8bbfe3aedde350c","fromNode":"f0456cf6b1c63fa6","fromSide":"bottom","toNode":"d70a3b9eedc76f4a","toSide":"top"}
 	]
 }
