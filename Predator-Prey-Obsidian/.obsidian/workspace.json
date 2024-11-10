@@ -25,28 +25,17 @@
             "id": "6172fe37fcb2e2a7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "MSML Scaffold/Metrics/Is Neighbor Metric.md",
-                "mode": "source",
-                "source": false
+                "file": "MSML Scaffold 2/MSML Scaffold Canvas.canvas",
+                "viewState": {
+                  "x": 649.1321606013233,
+                  "y": 1117.7045992847447,
+                  "zoom": -0.83910244839235
+                }
               },
-              "icon": "lucide-file",
-              "title": "Is Neighbor Metric"
-            }
-          },
-          {
-            "id": "0fdf2522ba682a72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-layout-dashboard",
+              "title": "MSML Scaffold Canvas"
             }
           },
           {
@@ -78,7 +67,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,12 +158,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "MSML Scaffold 2/MSML Scaffold Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from MSML Scaffold Canvas"
             }
           },
           {
@@ -219,9 +208,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0fdf2522ba682a72",
+  "floating": {
+    "id": "c8621e2c0e7fb5a3",
+    "type": "floating",
+    "children": [
+      {
+        "id": "87025f011ef2d59d",
+        "type": "window",
+        "children": [
+          {
+            "id": "329d2ffd9583f2d9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0fdf2522ba682a72",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "MSML Scaffold 2/Wiring/Agent Reproduction Wiring.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Agent Reproduction Wiring"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -992,
+        "y": -1026,
+        "width": 1276,
+        "height": 1015,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "6172fe37fcb2e2a7",
   "lastOpenFiles": [
+    "Agent Reproduction Policy.md",
+    "MSML Scaffold/Metrics/Is Neighbor Metric.md",
+    "MSML Scaffold 2/Wiring/Agent Reproduction Wiring.md",
     "MSML Scaffold 2/MSML Scaffold Canvas.canvas",
+    "README.md",
     "MSML Scaffold 2/Policies/Agent Movement Policy.md",
     "MSML Scaffold 2/Policies",
     "MSML Scaffold 2/Boundary Actions/Agent Reproduction Boundary Action.md",
@@ -241,7 +273,6 @@
     "MSML Scaffold 2/Wiring/Hunt Prey Wiring.md",
     "MSML Scaffold 2/Wiring/Food Growth Wiring.md",
     "MSML Scaffold 2/Wiring/Agent Movement Wiring.md",
-    "README.md",
     "MSML Scaffold 2/Types/2D Size Type.md",
     "MSML Scaffold 2/Types/Food Type.md",
     "MSML Scaffold 2/States/Agent State.md",
@@ -249,8 +280,6 @@
     "MSML Scaffold 2/Stateful Metrics/Median Site Food Stateful Metric.md",
     "MSML Scaffold 2/Stateful Metrics/Median Prey Age Stateful Metric.md",
     "MSML Scaffold 2/Stateful Metrics/Median Predator Age Stateful Metric.md",
-    "MSML Scaffold 2/Stateful Metrics/Median Prey Food Stateful Metric.md",
-    "MSML Scaffold 2/Stateful Metrics/Prey Stateful Metric.md",
     "MSML Scaffold 2/Types",
     "MSML Scaffold 2/States",
     "MSML Scaffold 2/Stateful Metrics",
