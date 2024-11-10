@@ -15,9 +15,9 @@
               "state": {
                 "file": "MSML Scaffold 2/MSML Scaffold Canvas.canvas",
                 "viewState": {
-                  "x": 1302.1082375518968,
-                  "y": 947.5100907909565,
-                  "zoom": -1.0197595195822524
+                  "x": 1380.9536800657172,
+                  "y": 1140.2705074654425,
+                  "zoom": -1.153077456638476
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -232,9 +232,23 @@
                   "icon": "lucide-file",
                   "title": "Food Growth Wiring"
                 }
+              },
+              {
+                "id": "83a645447cf5fd65",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "MSML Scaffold 2/Wiring/Hunt Prey Wiring.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Hunt Prey Wiring"
+                }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           }
         ],
         "direction": "vertical",
@@ -249,9 +263,11 @@
   },
   "active": "4f392ee2a887f287",
   "lastOpenFiles": [
-    "Food Growth Policy.md",
-    "MSML Scaffold 2/Wiring/Food Growth Wiring.md",
+    "Hunt Prey Policy.md",
+    "MSML Scaffold 2/Wiring/Hunt Prey Wiring.md",
     "MSML Scaffold 2/MSML Scaffold Canvas.canvas",
+    "MSML Scaffold 2/Wiring/Food Growth Wiring.md",
+    "Food Growth Policy.md",
     "MSML Scaffold 2/Wiring/Agent Reproduction Wiring.md",
     "Agent Reproduction Policy.md",
     "MSML Scaffold/Metrics/Is Neighbor Metric.md",
@@ -272,14 +288,12 @@
     "MSML Scaffold 2/Boundary Actions",
     "MSML Scaffold 2/Wiring/Natural Death Wiring.md",
     "MSML Scaffold 2/Wiring/Increase Agent Age Wiring.md",
-    "MSML Scaffold 2/Wiring/Hunt Prey Wiring.md",
     "MSML Scaffold 2/Wiring/Agent Movement Wiring.md",
     "MSML Scaffold 2/Types/2D Size Type.md",
     "MSML Scaffold 2/Types/Food Type.md",
     "MSML Scaffold 2/States/Agent State.md",
     "MSML Scaffold 2/States/Global State.md",
     "MSML Scaffold 2/Stateful Metrics/Median Site Food Stateful Metric.md",
-    "MSML Scaffold 2/Stateful Metrics/Median Prey Age Stateful Metric.md",
     "MSML Scaffold 2/Types",
     "MSML Scaffold 2/States",
     "MSML Scaffold 2/Stateful Metrics",
