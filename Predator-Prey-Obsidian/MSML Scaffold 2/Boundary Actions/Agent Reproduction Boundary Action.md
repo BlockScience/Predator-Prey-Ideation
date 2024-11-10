@@ -1,0 +1,4 @@
+- Called by [[MSML Scaffold 2/Entities/Agent|Agent]]
+- Returns a codomain of [[Agents Space]] representing the eligible potential agents for reproduction
+- Uses [[MSML Scaffold 2/Parameters/Reproduction Food Threshold|Reproduction Food Threshold]] to determine the list
+- Uses [[MSML Scaffold 2/Parameters/Reproduction Probability|Reproduction Probability]] as well
