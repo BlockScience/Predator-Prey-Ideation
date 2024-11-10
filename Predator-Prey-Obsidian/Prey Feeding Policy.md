@@ -1,1 +1,3 @@
-#WIP 
+- Domain of [[Agents Space]]
+- Uses [[Available Food Metric]]
+- Codomain of [[Location Food Delta Space]] and [[Agent Food Delta Space]]
