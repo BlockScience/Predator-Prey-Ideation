@@ -15,9 +15,9 @@
               "state": {
                 "file": "MSML Scaffold 2/MSML Scaffold Canvas.canvas",
                 "viewState": {
-                  "x": 2614.3850525644334,
-                  "y": 610.8852059764056,
-                  "zoom": -0.6700752692274864
+                  "x": 2294.331375489411,
+                  "y": 1178.3492368949633,
+                  "zoom": -1.2793428314797384
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -193,123 +193,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "c8621e2c0e7fb5a3",
-    "type": "floating",
-    "children": [
-      {
-        "id": "87025f011ef2d59d",
-        "type": "window",
-        "children": [
-          {
-            "id": "329d2ffd9583f2d9",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "0fdf2522ba682a72",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "MSML Scaffold 2/Wiring/Agent Reproduction Wiring.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Agent Reproduction Wiring"
-                }
-              },
-              {
-                "id": "6172fe37fcb2e2a7",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "MSML Scaffold 2/Wiring/Food Growth Wiring.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Food Growth Wiring"
-                }
-              },
-              {
-                "id": "e1f5447e0a384370",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "MSML Scaffold 2/Wiring/Increase Agent Age Wiring.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Increase Agent Age Wiring"
-                }
-              },
-              {
-                "id": "12df73ecd49a544c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "MSML Scaffold 2/Wiring/Natural Death Wiring.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Natural Death Wiring"
-                }
-              },
-              {
-                "id": "6fd5f176ab7d6fc7",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "MSML Scaffold 2/Wiring/Prey Feeding Wiring.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Prey Feeding Wiring"
-                }
-              }
-            ],
-            "currentTab": 4
-          }
-        ],
-        "direction": "vertical",
-        "x": -992,
-        "y": -1026,
-        "width": 1276,
-        "height": 1015,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "4f392ee2a887f287",
   "lastOpenFiles": [
-    "Agent Food Delta Space.md",
+    "MSML Scaffold 2/Mechanisms/Remove Agents Mechanism.md",
+    "MSML Scaffold 2/Policies/Natural Death Policy.md",
+    "MSML Scaffold 2/Spaces/Location Food Delta Space.md",
+    "MSML Scaffold 2/Policies/Increase Agent Age Policy.md",
+    "MSML Scaffold 2/Mechanisms/Increase Agent Age Mechanism.md",
+    "MSML Scaffold 2/Policies/Hunt Prey Policy.md",
+    "MSML Scaffold 2/State Variables/Global State-Agents.md",
+    "MSML Scaffold 2/Policies/Food Growth Policy.md",
+    "MSML Scaffold 2/Policies/Agent Reproduction Policy.md",
+    "MSML Scaffold 2/Spaces/Agent Food Delta Space.md",
+    "MSML Scaffold 2/Metrics/Available Food Metric.md",
     "MSML Scaffold 2/MSML Scaffold Canvas.canvas",
-    "Location Food Delta Space.md",
-    "Available Food Metric.md",
+    "MSML Scaffold 2/Wiring/Agent Reproduction Wiring.md",
     "MSML Scaffold 2/Wiring/Prey Feeding Wiring.md",
-    "Prey Feeding Policy.md",
+    "MSML Scaffold 2/Policies/Prey Feeding Policy.md",
     "MSML Scaffold 2/Wiring/Natural Death Wiring.md",
     "MSML Scaffold 2/Control Actions/Natural Death Control Action.md",
-    "Natural Death Policy.md",
-    "Increase Agent Age Mechanism.md",
     "MSML Scaffold 2/Wiring/Increase Agent Age Wiring.md",
-    "Remove Agents Mechanism.md",
-    "Increase Agent Age Policy.md",
     "MSML Scaffold 2/Wiring/Hunt Prey Wiring.md",
-    "Hunt Prey Policy.md",
     "MSML Scaffold 2/Wiring/Food Growth Wiring.md",
-    "Food Growth Policy.md",
-    "MSML Scaffold 2/Wiring/Agent Reproduction Wiring.md",
-    "Agent Reproduction Policy.md",
     "MSML Scaffold/Metrics/Is Neighbor Metric.md",
     "README.md",
     "MSML Scaffold 2/Policies/Agent Movement Policy.md",
@@ -317,7 +222,6 @@
     "MSML Scaffold 2/Boundary Actions/Agent Reproduction Boundary Action.md",
     "MSML Scaffold 2/Boundary Actions/Agent Movement Boundary Action.md",
     "MSML Scaffold 2/Boundary Actions/Hunt Prey Boundary Action.md",
-    "MSML Scaffold 2/Boundary Actions/Prey Feeding Boundary Action.md",
     "MSML Scaffold 2/Spaces",
     "MSML Scaffold 2/Control Actions",
     "MSML Scaffold 2/Boundary Actions",
