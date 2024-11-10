@@ -15,9 +15,9 @@
               "state": {
                 "file": "MSML Scaffold 2/MSML Scaffold Canvas.canvas",
                 "viewState": {
-                  "x": 2294.331375489411,
-                  "y": 1178.3492368949633,
-                  "zoom": -1.2793428314797384
+                  "x": 2075.3062454435494,
+                  "y": 946.0014070652852,
+                  "zoom": -0.8217142730029722
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -195,6 +195,8 @@
   },
   "active": "4f392ee2a887f287",
   "lastOpenFiles": [
+    "Agent Age Delta Space.md",
+    "MSML Scaffold 2/MSML Scaffold Canvas.canvas",
     "MSML Scaffold 2/Mechanisms/Remove Agents Mechanism.md",
     "MSML Scaffold 2/Policies/Natural Death Policy.md",
     "MSML Scaffold 2/Spaces/Location Food Delta Space.md",
@@ -206,7 +208,6 @@
     "MSML Scaffold 2/Policies/Agent Reproduction Policy.md",
     "MSML Scaffold 2/Spaces/Agent Food Delta Space.md",
     "MSML Scaffold 2/Metrics/Available Food Metric.md",
-    "MSML Scaffold 2/MSML Scaffold Canvas.canvas",
     "MSML Scaffold 2/Wiring/Agent Reproduction Wiring.md",
     "MSML Scaffold 2/Wiring/Prey Feeding Wiring.md",
     "MSML Scaffold 2/Policies/Prey Feeding Policy.md",
@@ -221,7 +222,6 @@
     "MSML Scaffold 2/Policies",
     "MSML Scaffold 2/Boundary Actions/Agent Reproduction Boundary Action.md",
     "MSML Scaffold 2/Boundary Actions/Agent Movement Boundary Action.md",
-    "MSML Scaffold 2/Boundary Actions/Hunt Prey Boundary Action.md",
     "MSML Scaffold 2/Spaces",
     "MSML Scaffold 2/Control Actions",
     "MSML Scaffold 2/Boundary Actions",
