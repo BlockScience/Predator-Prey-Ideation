@@ -15,9 +15,9 @@
               "state": {
                 "file": "MSML Scaffold 2/MSML Scaffold Canvas.canvas",
                 "viewState": {
-                  "x": 1400.1473240665753,
-                  "y": 1213.9633285321804,
-                  "zoom": -1.6410927821052683
+                  "x": 1370.5288116729598,
+                  "y": 1131.6131737151607,
+                  "zoom": -1.6263102150810373
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -291,9 +291,9 @@
   },
   "active": "4f392ee2a887f287",
   "lastOpenFiles": [
-    "Prey Feeding Policy.md",
     "MSML Scaffold 2/Wiring/Prey Feeding Wiring.md",
     "MSML Scaffold 2/MSML Scaffold Canvas.canvas",
+    "Prey Feeding Policy.md",
     "MSML Scaffold 2/Wiring/Natural Death Wiring.md",
     "MSML Scaffold 2/Control Actions/Natural Death Control Action.md",
     "Natural Death Policy.md",
@@ -319,7 +319,6 @@
     "MSML Scaffold 2/Types/Agent Array Type.md",
     "MSML Scaffold 2/Spaces",
     "MSML Scaffold 2/Control Actions/Increase Age Control Action.md",
-    "MSML Scaffold 2/Control Actions/Food Growth Control Action.md",
     "MSML Scaffold 2/Control Actions",
     "MSML Scaffold 2/Boundary Actions",
     "MSML Scaffold 2/Types",
