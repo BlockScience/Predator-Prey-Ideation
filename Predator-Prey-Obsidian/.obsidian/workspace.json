@@ -15,9 +15,9 @@
               "state": {
                 "file": "MSML Scaffold 2/MSML Scaffold Canvas.canvas",
                 "viewState": {
-                  "x": 2363.621333553241,
-                  "y": 998.9461659040276,
-                  "zoom": -0.6999875103287506
+                  "x": 1400.1473240665753,
+                  "y": 1213.9633285321804,
+                  "zoom": -1.6410927821052683
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -260,9 +260,23 @@
                   "icon": "lucide-file",
                   "title": "Natural Death Wiring"
                 }
+              },
+              {
+                "id": "6fd5f176ab7d6fc7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "MSML Scaffold 2/Wiring/Prey Feeding Wiring.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Prey Feeding Wiring"
+                }
               }
             ],
-            "currentTab": 3
+            "currentTab": 4
           }
         ],
         "direction": "vertical",
@@ -277,9 +291,12 @@
   },
   "active": "4f392ee2a887f287",
   "lastOpenFiles": [
+    "Prey Feeding Policy.md",
+    "MSML Scaffold 2/Wiring/Prey Feeding Wiring.md",
     "MSML Scaffold 2/MSML Scaffold Canvas.canvas",
-    "Natural Death Policy.md",
     "MSML Scaffold 2/Wiring/Natural Death Wiring.md",
+    "MSML Scaffold 2/Control Actions/Natural Death Control Action.md",
+    "Natural Death Policy.md",
     "Increase Agent Age Mechanism.md",
     "MSML Scaffold 2/Wiring/Increase Agent Age Wiring.md",
     "Remove Agents Mechanism.md",
@@ -303,10 +320,8 @@
     "MSML Scaffold 2/Spaces",
     "MSML Scaffold 2/Control Actions/Increase Age Control Action.md",
     "MSML Scaffold 2/Control Actions/Food Growth Control Action.md",
-    "MSML Scaffold 2/Control Actions/Natural Death Control Action.md",
     "MSML Scaffold 2/Control Actions",
     "MSML Scaffold 2/Boundary Actions",
-    "MSML Scaffold 2/Wiring/Agent Movement Wiring.md",
     "MSML Scaffold 2/Types",
     "MSML Scaffold 2/States",
     "MSML Scaffold 2/Stateful Metrics",
