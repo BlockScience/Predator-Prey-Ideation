@@ -25,7 +25,9 @@
 		{"id":"5ebad9baf8169a50","type":"file","file":"MSML Scaffold 2/Wiring/Prey Feeding Wiring.md","x":2840,"y":-191,"width":400,"height":400},
 		{"id":"ba30e9967200fc4a","type":"file","file":"MSML Scaffold 2/Boundary Actions/Prey Feeding Boundary Action.md","x":2840,"y":300,"width":400,"height":400},
 		{"id":"f0456cf6b1c63fa6","x":1840,"y":800,"width":400,"height":400,"type":"file","file":"Increase Agent Age Policy.md"},
-		{"id":"248c95001337e15c","x":1920,"y":1360,"width":400,"height":400,"type":"file","file":"Remove Agents Mechanism.md"}
+		{"id":"248c95001337e15c","x":2320,"y":1360,"width":400,"height":400,"type":"file","file":"Remove Agents Mechanism.md"},
+		{"id":"c60f6b21251149c5","x":1880,"y":1360,"width":400,"height":400,"type":"file","file":"Increase Agent Age Mechanism.md"},
+		{"id":"d527ed55a86c4a9c","x":2320,"y":800,"width":400,"height":400,"type":"file","file":"Natural Death Policy.md"}
 	],
 	"edges":[
 		{"id":"c39dee0d309ced44","fromNode":"6dc4e9d504902a64","fromSide":"bottom","toNode":"f64c97f70b96f687","toSide":"top"},
@@ -46,7 +48,9 @@
 		{"id":"f8d8bb5c3415310a","fromNode":"9e66294f9b9a627e","fromSide":"bottom","toNode":"8246f9888504e790","toSide":"top"},
 		{"id":"1b45cb67b91f5bc3","fromNode":"8246f9888504e790","fromSide":"bottom","toNode":"d70a3b9eedc76f4a","toSide":"top"},
 		{"id":"b2e5ea358f202238","fromNode":"2b59b835166909a0","fromSide":"bottom","toNode":"f0456cf6b1c63fa6","toSide":"top"},
-		{"id":"3f53496dd311f35a","fromNode":"f0456cf6b1c63fa6","fromSide":"bottom","toNode":"248c95001337e15c","toSide":"top"},
-		{"id":"d8bbfe3aedde350c","fromNode":"f0456cf6b1c63fa6","fromSide":"bottom","toNode":"d70a3b9eedc76f4a","toSide":"top"}
+		{"id":"d8bbfe3aedde350c","fromNode":"f0456cf6b1c63fa6","fromSide":"bottom","toNode":"d70a3b9eedc76f4a","toSide":"top"},
+		{"id":"ba160591ed7c74b7","fromNode":"f0456cf6b1c63fa6","fromSide":"bottom","toNode":"c60f6b21251149c5","toSide":"top"},
+		{"id":"b5c8f68274b3e6dd","fromNode":"24573ee78995dcff","fromSide":"bottom","toNode":"d527ed55a86c4a9c","toSide":"top"},
+		{"id":"2c83530ec5358412","fromNode":"d527ed55a86c4a9c","fromSide":"bottom","toNode":"248c95001337e15c","toSide":"top"}
 	]
 }
