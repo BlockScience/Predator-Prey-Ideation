@@ -15,9 +15,9 @@
               "state": {
                 "file": "MSML Scaffold 2/MSML Scaffold Canvas.canvas",
                 "viewState": {
-                  "x": 511.28700833901866,
-                  "y": 1088.7071602008416,
-                  "zoom": -1.0240047398281396
+                  "x": 1597.5136951552981,
+                  "y": 1537.029685136654,
+                  "zoom": -0.5215948592694902
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -143,12 +143,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MSML Scaffold 2/MSML Scaffold Canvas.canvas",
+                "file": "MSML Scaffold 2/Wiring/Hunt Prey Wiring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from MSML Scaffold Canvas"
+              "title": "Outgoing links from Hunt Prey Wiring"
             }
           },
           {
