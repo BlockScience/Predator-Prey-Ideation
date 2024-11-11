@@ -1,1 +1,1 @@
-An array of agents
+An array of [[agent entity type]]
