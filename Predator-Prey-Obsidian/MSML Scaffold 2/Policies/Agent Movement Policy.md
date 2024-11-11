@@ -1,4 +1,4 @@
-#WIP
-
 - Domain of [[Agents Space]]
 - First policy option will be simple random one tile movement
+- Uses [[MSML Scaffold 2/Metrics/Neighboring Valid Tiles Metric|Neighboring Valid Tiles Metric]] and [[MSML Scaffold 2/Metrics/Free Locations Metric|Free Locations Metric]]
+- Codomain: [[Agent Location Space]]

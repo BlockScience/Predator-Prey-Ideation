@@ -1,0 +1,3 @@
+- Domain of [[Agents Space]]
+- Adding 1 to age and -1 to food (maybe later on can be a parameter)
+- Codomain is [[Agent Food Delta Space]] and [[Agent Age Delta Space]]

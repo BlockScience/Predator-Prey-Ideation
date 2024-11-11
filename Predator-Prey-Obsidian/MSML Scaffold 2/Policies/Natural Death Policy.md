@@ -1,0 +1,4 @@
+- Basic would be always die
+- Second policy option could be probabilistic
+- Domain of [[Agents Space]]
+- Codomain of [[Agents Space]]

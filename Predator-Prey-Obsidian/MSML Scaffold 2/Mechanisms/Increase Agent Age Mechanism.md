@@ -1,0 +1,3 @@
+- Domain is [[Agent Age Delta Space]]
+- Updates all the agent ages
+- Updates [[MSML Scaffold 2/State Variables/Agent State-Age|Agent State-Age]]

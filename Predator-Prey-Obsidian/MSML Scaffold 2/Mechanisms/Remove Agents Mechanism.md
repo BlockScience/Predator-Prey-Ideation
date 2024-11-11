@@ -1,0 +1,2 @@
+- Domain of [[Agents Space]]
+- Removes agents from [[Global State-Agents]]
