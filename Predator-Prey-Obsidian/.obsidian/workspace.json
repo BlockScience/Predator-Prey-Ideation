@@ -11,17 +11,14 @@
             "id": "4f392ee2a887f287",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "MSML Scaffold 2/MSML Scaffold Canvas.canvas",
-                "viewState": {
-                  "x": 1597.5136951552981,
-                  "y": 1537.029685136654,
-                  "zoom": -0.5215948592694902
-                }
+                "file": "MSML Scaffold 2/Types/Agent Location Array Type.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "MSML Scaffold Canvas"
+              "icon": "lucide-file",
+              "title": "Agent Location Array Type"
             }
           },
           {
@@ -143,12 +140,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MSML Scaffold 2/Wiring/Hunt Prey Wiring.md",
+                "file": "MSML Scaffold 2/Types/Agent Location Array Type.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Hunt Prey Wiring"
+              "title": "Outgoing links from Agent Location Array Type"
             }
           },
           {
@@ -195,32 +192,33 @@
   },
   "active": "4f392ee2a887f287",
   "lastOpenFiles": [
-    "MSML Scaffold 2/Spaces/Agent Age Delta Space.md",
+    "MSML Scaffold 2/Types/Location Type.md",
+    "MSML Scaffold 2/Types/Agent Location Array Type.md",
+    "MSML Scaffold 2/Types/Agent Food Delta Array Type.md",
     "MSML Scaffold 2/Spaces/Agent Location Space.md",
-    "MSML Scaffold 2/MSML Scaffold Canvas.canvas",
-    "MSML Scaffold 2/Spaces/Locations Space.md",
-    "MSML Scaffold 2/Mechanisms/Remove Agents Mechanism.md",
-    "MSML Scaffold 2/Policies/Natural Death Policy.md",
+    "MSML Scaffold 2/Spaces/Agent Food Delta Space.md",
+    "MSML Scaffold 2/Spaces/Agent Age Delta Space.md",
+    "MSML Scaffold 2/Spaces/Agents Space.md",
+    "MSML Scaffold 2/Types/Agent Age Delta Array Type.md",
+    "MSML Scaffold 2/Types/Agent Entity Type.md",
+    "MSML Scaffold 2/Types/Float Type.md",
     "MSML Scaffold 2/Spaces/Location Food Delta Space.md",
-    "MSML Scaffold 2/Policies/Increase Agent Age Policy.md",
-    "MSML Scaffold 2/Mechanisms/Increase Agent Age Mechanism.md",
-    "MSML Scaffold 2/Policies/Hunt Prey Policy.md",
+    "MSML Scaffold 2/Spaces/Locations Space.md",
+    "MSML Scaffold 2/Types/Agent Array Type.md",
+    "MSML Scaffold 2/MSML Scaffold Canvas.canvas",
     "MSML Scaffold 2/State Variables/Global State-Agents.md",
+    "MSML Scaffold 2/Policies/Prey Feeding Policy.md",
+    "MSML Scaffold 2/Policies/Natural Death Policy.md",
+    "MSML Scaffold 2/Policies/Increase Agent Age Policy.md",
+    "MSML Scaffold 2/Policies/Hunt Prey Policy.md",
     "MSML Scaffold 2/Policies/Food Growth Policy.md",
     "MSML Scaffold 2/Policies/Agent Reproduction Policy.md",
-    "MSML Scaffold 2/Spaces/Agent Food Delta Space.md",
     "MSML Scaffold 2/Metrics/Available Food Metric.md",
-    "MSML Scaffold 2/Wiring/Agent Reproduction Wiring.md",
-    "MSML Scaffold 2/Wiring/Prey Feeding Wiring.md",
-    "MSML Scaffold 2/Policies/Prey Feeding Policy.md",
-    "MSML Scaffold 2/Wiring/Natural Death Wiring.md",
-    "MSML Scaffold 2/Control Actions/Natural Death Control Action.md",
-    "MSML Scaffold 2/Wiring/Increase Agent Age Wiring.md",
-    "MSML Scaffold 2/Wiring/Hunt Prey Wiring.md",
-    "MSML Scaffold 2/Wiring/Food Growth Wiring.md",
-    "MSML Scaffold/Metrics/Is Neighbor Metric.md",
-    "README.md",
-    "MSML Scaffold 2/Policies/Agent Movement Policy.md",
+    "MSML Scaffold 2/Mechanisms/Remove Agents Mechanism.md",
+    "MSML Scaffold 2/Mechanisms/Increase Agent Age Mechanism.md",
+    "Remove Agents Mechanism.md",
+    "Prey Feeding Policy.md",
+    "Natural Death Policy.md",
     "MSML Scaffold 2/Policies",
     "MSML Scaffold 2/Spaces",
     "MSML Scaffold 2/Control Actions",
