@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSML Scaffold 2/Stateful Metrics/Median Prey Food Stateful Metric.md",
+                "file": "MSML Scaffold 2/Stateful Metrics/Median Site Food Stateful Metric.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Median Prey Food Stateful Metric"
+              "title": "Median Site Food Stateful Metric"
             }
           },
           {
@@ -140,12 +140,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MSML Scaffold 2/Stateful Metrics/Median Prey Food Stateful Metric.md",
+                "file": "MSML Scaffold 2/Stateful Metrics/Median Site Food Stateful Metric.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Median Prey Food Stateful Metric"
+              "title": "Outgoing links from Median Site Food Stateful Metric"
             }
           },
           {
@@ -192,12 +192,19 @@
   },
   "active": "4f392ee2a887f287",
   "lastOpenFiles": [
+    "MSML Scaffold 2/State Variables/Site State-Location.md",
+    "MSML Scaffold 2/State Variables/Site State-Food.md",
+    "MSML Scaffold 2/States/Global State.md",
+    "MSML Scaffold 2/States/Agent State.md",
+    "MSML Scaffold 2/States/Site State.md",
+    "MSML Scaffold 2/State Variables/Agent State-Food.md",
+    "MSML Scaffold 2/State Variables/Agent State-Age.md",
+    "MSML Scaffold 2/Stateful Metrics/Median Site Food Stateful Metric.md",
+    "MSML Scaffold 2/State Variables/Global State-Sites.md",
+    "MSML Scaffold 2/Stateful Metrics/Median Prey Food Stateful Metric.md",
     "MSML Scaffold 2/Stateful Metrics/Median Predator Food Stateful Metric.md",
     "MSML Scaffold 2/Stateful Metrics/Median Prey Age Stateful Metric.md",
-    "MSML Scaffold 2/Stateful Metrics/Median Prey Food Stateful Metric.md",
-    "MSML Scaffold 2/Stateful Metrics/Median Site Food Stateful Metric.md",
     "MSML Scaffold 2/Stateful Metrics/Median Predator Age Stateful Metric.md",
-    "MSML Scaffold 2/State Variables/Agent State-Food.md",
     "MSML Scaffold 2/Types/Food Location Array Type.md",
     "MSML Scaffold 2/Types/Agent Entity Type.md",
     "MSML Scaffold 2/Types/2D Size Type.md",
@@ -211,14 +218,7 @@
     "MSML Scaffold 2/Types/Locations Array Type.md",
     "MSML Scaffold 2/Types/Location Type.md",
     "MSML Scaffold 2/Spaces/Agents Space.md",
-    "MSML Scaffold 2/Spaces/Location Food Delta Space.md",
-    "MSML Scaffold 2/Spaces/Locations Space.md",
-    "MSML Scaffold 2/Spaces/Agent Location Space.md",
-    "MSML Scaffold 2/Spaces/Agent Food Delta Space.md",
-    "MSML Scaffold 2/Spaces/Agent Age Delta Space.md",
     "MSML Scaffold 2/MSML Scaffold Canvas.canvas",
-    "MSML Scaffold 2/State Variables/Global State-Agents.md",
-    "MSML Scaffold 2/Policies/Prey Feeding Policy.md",
     "MSML Scaffold 2/Policies",
     "MSML Scaffold 2/Spaces",
     "MSML Scaffold 2/Control Actions",

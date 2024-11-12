@@ -1,3 +1,3 @@
 - Uses [[MSML Scaffold 2/Stateful Metrics/Prey Stateful Metric|Prey Stateful Metric]]
-- Uses [[Global State-Agents]]
-- Uses [[MSML Scaffold 2/State Variables/Agent State-Age|Agent State-Age]]
+- Uses [[MSML Scaffold 2/State Variables/Global State-Sites|Global State-Sites]]
+- Uses [[Site State-Food]]
