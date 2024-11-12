@@ -1,3 +1,6 @@
+- Domain of [[Locations Space]] that gives locations to query
+
+
 ## Legacy Code
 
 ```python

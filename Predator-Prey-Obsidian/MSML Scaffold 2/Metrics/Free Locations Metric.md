@@ -1,0 +1,2 @@
+- Domain of [[Locations Space]] that gives locations to query
+- 

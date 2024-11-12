@@ -1,3 +1,8 @@
+- Domain of [[Locations Space]] that gives locations to query
+
+
+
+
 ```python
 def check_location(position: tuple,
                    all_sites: np.matrix,
