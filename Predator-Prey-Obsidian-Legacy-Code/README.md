@@ -1,12 +1,13 @@
-# Predator-Prey-Ideation
+This folder showcases how to do reverse engineering with the aid of Obsidian. 
 
-This repository shows soon to be multiple ways of working through ideation of a model. The headings below briefly describe each ideation methodology.
-
-## Predator-Prey-Obsidian-Legacy-Code
+## What is a Legacy Code Review?
 
 - Legacy code review is done to take a current version of a system and break it down into MSML/GDS style blocks and spaces
 - It can be free form but overall the goal should be piecing together the beginning of a scaffold to be ported into MSML
 - This can also be done in tandem with a literature review
+
+## How is a Legacy Code Review Done?
+
 - The steps followed were:
 1. Port all relevant code into the "Legacy Code Review"
 2. Create the folder of "MSML Scaffold" and start to link pieces of the legacy code files to their counterparts in an MSML scaffold

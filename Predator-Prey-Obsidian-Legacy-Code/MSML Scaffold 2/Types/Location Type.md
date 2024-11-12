@@ -1,0 +1,1 @@
+A type with x and y as integers representing the 0-indexed grid location

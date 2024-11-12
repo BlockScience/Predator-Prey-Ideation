@@ -1,0 +1,1 @@
+An tuple of size two with two [[Integer Type]] that represents the 2D size of something
