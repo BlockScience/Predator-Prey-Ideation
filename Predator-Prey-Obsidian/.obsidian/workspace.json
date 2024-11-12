@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSML Scaffold 2/Stateful Metrics/Median Predator Age Stateful Metric.md",
+                "file": "MSML Scaffold 2/Stateful Metrics/Median Prey Food Stateful Metric.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Median Predator Age Stateful Metric"
+              "title": "Median Prey Food Stateful Metric"
             }
           },
           {
@@ -140,12 +140,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MSML Scaffold 2/Stateful Metrics/Median Predator Age Stateful Metric.md",
+                "file": "MSML Scaffold 2/Stateful Metrics/Median Prey Food Stateful Metric.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Median Predator Age Stateful Metric"
+              "title": "Outgoing links from Median Prey Food Stateful Metric"
             }
           },
           {
@@ -192,8 +192,12 @@
   },
   "active": "4f392ee2a887f287",
   "lastOpenFiles": [
+    "MSML Scaffold 2/Stateful Metrics/Median Predator Food Stateful Metric.md",
     "MSML Scaffold 2/Stateful Metrics/Median Prey Age Stateful Metric.md",
+    "MSML Scaffold 2/Stateful Metrics/Median Prey Food Stateful Metric.md",
+    "MSML Scaffold 2/Stateful Metrics/Median Site Food Stateful Metric.md",
     "MSML Scaffold 2/Stateful Metrics/Median Predator Age Stateful Metric.md",
+    "MSML Scaffold 2/State Variables/Agent State-Food.md",
     "MSML Scaffold 2/Types/Food Location Array Type.md",
     "MSML Scaffold 2/Types/Agent Entity Type.md",
     "MSML Scaffold 2/Types/2D Size Type.md",
@@ -215,10 +219,6 @@
     "MSML Scaffold 2/MSML Scaffold Canvas.canvas",
     "MSML Scaffold 2/State Variables/Global State-Agents.md",
     "MSML Scaffold 2/Policies/Prey Feeding Policy.md",
-    "MSML Scaffold 2/Policies/Natural Death Policy.md",
-    "MSML Scaffold 2/Policies/Increase Agent Age Policy.md",
-    "MSML Scaffold 2/Policies/Hunt Prey Policy.md",
-    "MSML Scaffold 2/Policies/Food Growth Policy.md",
     "MSML Scaffold 2/Policies",
     "MSML Scaffold 2/Spaces",
     "MSML Scaffold 2/Control Actions",

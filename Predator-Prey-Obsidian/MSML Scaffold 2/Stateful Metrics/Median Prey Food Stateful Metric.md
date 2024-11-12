@@ -1,0 +1,3 @@
+- Uses [[MSML Scaffold 2/Stateful Metrics/Prey Stateful Metric|Prey Stateful Metric]]
+- Uses [[Global State-Agents]]
+- Uses [[MSML Scaffold 2/State Variables/Agent State-Food|Agent State-Food]]
