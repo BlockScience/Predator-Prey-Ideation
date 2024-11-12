@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSML Scaffold 2/Metrics/Free Locations Metric.md",
+                "file": "MSML Scaffold 2/Boundary Actions/Agent Movement Boundary Action.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Free Locations Metric"
+              "title": "Agent Movement Boundary Action"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MSML Scaffold 2/Metrics/Free Locations Metric.md",
+                "file": "MSML Scaffold 2/Boundary Actions/Agent Movement Boundary Action.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Free Locations Metric"
+              "title": "Backlinks for Agent Movement Boundary Action"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MSML Scaffold 2/Metrics/Free Locations Metric.md",
+                "file": "MSML Scaffold 2/Boundary Actions/Agent Movement Boundary Action.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Free Locations Metric"
+              "title": "Outgoing links from Agent Movement Boundary Action"
             }
           },
           {
@@ -163,12 +163,14 @@
   },
   "active": "4f392ee2a887f287",
   "lastOpenFiles": [
-    "MSML Scaffold 2/Metrics/Available Food Metric.md",
-    "MSML Scaffold 2/Mechanisms/Update Agents Mechanism.md",
+    "MSML Scaffold 2/Parameters/Maximum Food per Tile.md",
+    "MSML Scaffold 2/State Variables/Global State-Sites.md",
     "MSML Scaffold 2/Metrics/Free Locations Metric.md",
-    "MSML Scaffold 2/Metrics/Is Neighbor Metric.md",
-    "MSML Scaffold 2/Metrics/Neighboring Valid Tiles Metric.md",
+    "MSML Scaffold 2/Metrics/Available Food Metric.md",
     "MSML Scaffold 2/Metrics/Neighbors Metric.md",
+    "MSML Scaffold 2/Metrics/Neighboring Valid Tiles Metric.md",
+    "MSML Scaffold 2/Metrics/Is Neighbor Metric.md",
+    "MSML Scaffold 2/Mechanisms/Update Agents Mechanism.md",
     "MSML Scaffold 2/Policies/Prey Feeding Policy.md",
     "MSML Scaffold 2/Stateful Metrics/Number of Predators Stateful Metric.md",
     "MSML Scaffold 2/Stateful Metrics/Median Predator Age Stateful Metric.md",
@@ -186,9 +188,7 @@
     "MSML Scaffold 2/States/Site State.md",
     "MSML Scaffold 2/State Variables/Agent State-Food.md",
     "MSML Scaffold 2/State Variables/Agent State-Age.md",
-    "MSML Scaffold 2/State Variables/Global State-Sites.md",
     "MSML Scaffold 2/Types/Food Location Array Type.md",
-    "MSML Scaffold 2/Types/Agent Entity Type.md",
     "MSML Scaffold 2/MSML Scaffold Canvas.canvas",
     "MSML Scaffold 2/Policies",
     "MSML Scaffold 2/Spaces",

@@ -1,2 +1,2 @@
 - Domain of [[Locations Space]] that gives locations to query
-- 
+- Uses [[MSML Scaffold 2/State Variables/Global State-Sites|Global State-Sites]]
